@@ -5,7 +5,6 @@ First you have to donwload and unzip the data using the following commands (comm
 Set the working directory propertly according with your preferences. 
 
 setwd("~/Documents/Coursera/CleaningData")
-# download and unzip files if needed
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", destfile = "dataset.zip", method = "curl", mode='wb')
 unzip('./dataset.zip')
 
