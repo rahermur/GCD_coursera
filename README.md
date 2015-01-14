@@ -2,6 +2,7 @@
 Getting Cleaning Data
 
 First you have to donwload and unzip the data using the following commands (commeted in run_analysis.R). 
+I have not uploaded the files not to overload such large files on github.
 Set the working directory propertly according with your preferences. 
 
 setwd("~/Documents/Coursera/CleaningData")
